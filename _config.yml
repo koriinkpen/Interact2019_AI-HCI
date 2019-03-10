@@ -1,5 +1,5 @@
-theme: jekyll-theme-modernist
+theme: jekyll-theme-leapday
+is_project_page: false 
 title: "The Human(s) in the Loop- Bringing AI and HCI Together"
 description: "Interact 2019 Workshop, Tuesday 3 September 2019, Paphos, Cyprus"
-is_project_page: false
 markdown: kramdown
