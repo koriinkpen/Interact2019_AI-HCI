@@ -66,7 +66,7 @@ The (proposed) schedule includes:
 
 1015 – Mid-morning break
 
-1030 – Full-group brainstorming of possibly project areas
+1030 – Full-group brainstorming of possible project areas
 
 1200 – Lunch break
 
