@@ -1,4 +1,5 @@
-is_project_page: false 
+github:
+  is_project_page: false 
 theme: jekyll-theme-dinky
 title: "Humans in the Loop-Bringing AI and HCI Together"
 description: "Interact 2019 Workshop, Tuesday 3 September 2019, Paphos, Cyprus"
