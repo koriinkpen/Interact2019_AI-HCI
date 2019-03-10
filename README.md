@@ -1,10 +1,10 @@
 # [INTERACT 2019](https://interact2019.org/) Workshop
 
-# *Paper Submissions Deadline*: 24 April
+### Paper Submissions Deadline: 24 April
 
-# Notification on acceptance: 7 June
+### Notification on acceptance: 7 June
 
-# Workshop: 3 September (to be confirmed)
+### Workshop: 3 September (to be confirmed)
 
 ## Overview
 
