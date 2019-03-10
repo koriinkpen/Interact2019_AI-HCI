@@ -34,7 +34,6 @@ The structure of this workshop will be focused on creating research partnerships
 
 
 ## Themes
-=====================================
 
 This workshop will focus on three sub-themes related to Human + AI Collaboration: 
 
@@ -46,7 +45,6 @@ This workshop will focus on three sub-themes related to Human + AI Collaboration
 
 
 ## Organisers
-==========
 
 **[Dr. Tom Gross](http://www.tomgross.net/)** is full professor and chair of Human-Computer Interaction at the Faculty of Infor-mation Systems and Applied Computer Science of the University of Bamberg, Ger-many. His research interests are particularly in the fields of Computer-Supported Cooperative Work, Human-Computer Interaction, and Ubiquitous Computing. He has participated in and coordinated activities in various national and international research projects and is a member of the IFIP Technical Committee on ‘Human Computer Interaction’ (TC.13). He has been conference co-chair and organiser of many international conferences. 
 
@@ -62,14 +60,23 @@ This workshop will focus on three sub-themes related to Human + AI Collaboration
 The (proposed) schedule includes:
 
 0900 - Welcome and Introduction
+
 0915 – Lightning Talks by workshop participants
+
 1015 - Mid-morning break
+
 1030 – Full-group brainstorming of possibly project areas
+
 1200 - Lunch break
+
 1300 - Breakout Groups
+
 1430 - Mid-afternoon break
+
 1500 - Report back from Breakout Groups
+
 1600 - Brainstorm next steps
+
 1700 - Workshop concludes
 
 
