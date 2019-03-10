@@ -90,26 +90,27 @@ Three key outcomes are expected from this workshop. First, community building an
 
 ## References
 
-1\.	Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., Shu, J., Iq-bal, S., Bennett, P.N., Inkpen, K., Teevan, J., Kikin-Gil, R. and Horvitz, E. *Guidelines for Human-AI Interaction*. In Proceedings of the Conference on Human Factors in Computing Systems - CHI 2019 (May 4-9, Glasgow, Scotland). ACM, N.Y., (to appear). 
+1\.	Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., Shu, J., Iq-bal, S., Bennett, P.N., Inkpen, K., Teevan, J., Kikin-Gil, R. and Horvitz, E. Guidelines for Human-AI Interaction. In *Proceedings of the Conference on Human Factors in Computing Systems - CHI 2019* (May 4-9, Glasgow, Scotland). ACM, N.Y., (to appear). 
 
-2\.	Gama, J., Žliobaitė, I., Bifet, A., Pechenizkiy, M., and Bouchachia, A. *A survey on concept drift adaptation*. ACM Computing Surveys 1, 1. https://doi.org/10.1145/2523813
+2\.	Gama, J., Žliobaitė, I., Bifet, A., Pechenizkiy, M., and Bouchachia, A. A survey on concept drift adaptation. *ACM Computing Surveys* 1, 1. https://doi.org/10.1145/2523813
 
-3\.	Green, B., and Chen, Y. *Disparate Interactions: An Algorithm-in-the-Loop Analysis of Fairness in Risk Assessments*. In Proceedings of the ACM Conference on Fairness, Ac-countability, and Transparency - FAT* 2019 (January 29-31, Atlanta, GA). ACM N.Y.  
+3\.	Green, B., and Chen, Y. Disparate Interactions: An Algorithm-in-the-Loop Analysis of Fairness in Risk Assessments. In *Proceedings of the ACM Conference on Fairness, Accountability, and Transparency - FAT\* 2019* (January 29-31, Atlanta, GA). ACM N.Y.  
 
-4\.	Gross, T. *Supporting Informed Negotiation Processes in Group Recommender Systems*. i-com - Journal of Interactive Media 14, 1 (Jan. 2015). pp. 53-61. 
+4\.	Gross, T. Supporting Informed Negotiation Processes in Group Recommender Systems. *i-com - Journal of Interactive Media 14, 1* (Jan. 2015). pp. 53-61. 
 
-5\.	Saxena, N.A., Huang, K., DeFilippis, E., Radanovic, G., Parkes, D.C., Liu, Y. *How Do Fairness Deﬁnitions Fare? Examining Public Attitudes Towards Algorithmic Deﬁnitions of Fairness*. In Proceedings of Association for the Advancement of Artificial Intelligence – AAAI 2019. 
+5\.	Saxena, N.A., Huang, K., DeFilippis, E., Radanovic, G., Parkes, D.C., Liu, Y. How Do Fairness Deﬁnitions Fare? Examining Public Attitudes Towards Algorithmic Deﬁnitions of Fairness. In *Proceedings of Association for the Advancement of Artificial Intelligence – AAAI 2019*. 
 
-6\.	Veale M. and Binns, R. *Fairer machine learning in the real world: Mitigating discrimination without collecting sensitive data*. Big Data & Society 4, 2. https://doi.org/10/gdcfnz
+6\.	Veale M. and Binns, R. Fairer machine learning in the real world: Mitigating discrimination without collecting sensitive data. *Big Data & Society 4, 2*. https://doi.org/10/gdcfnz
 
-7\.	Yin, M., Wortman Vaughan, J., Wallach, H., *Understanding the Effect of Accuracy on Trust in Machine Learning Models*. In Proceedings of the Conference on Human Factors in Com-puting Systems - CHI 2019 (May 4-9, Glasgow, Scotland). ACM, N.Y., (to appear).
+7\.	Yin, M., Wortman Vaughan, J., Wallach, H., Understanding the Effect of Accuracy on Trust in Machine Learning Models. In *Proceedings of the Conference on Human Factors in Computing Systems - CHI 2019* (May 4-9, Glasgow, Scotland). ACM, N.Y., (to appear).
 
-88\. Eric P. S. Baumer. 2017. Toward Human-Centered Algorithm Design. *Big Data & Society* 4, 2. <https://doi.org/10.1177/2053951717718854>
-89\. Munmun De Choudhury and Emre Kiciman. 2018. Integrating artificial and human intelligence in complex, sensitive problem domains: Experiences from mental health. *AI Magazine* 39, 3.
+8\. Eric P. S. Baumer. 2017. Toward Human-Centered Algorithm Design. *Big Data & Society* 4, 2. 
 
-90\. Alexandra Olteanu, Carlos Castillo, Fernando Diaz, and Emre Kiciman. 2016. Social data: Biases, methodological pitfalls, and ethical boundaries.
+9\. Munmun De Choudhury and Emre Kiciman. 2018. Integrating artificial and human intelligence in complex, sensitive problem domains: Experiences from mental health. *AI Magazine* 39, 3.
 
-91\. Michael Veale, Max Van Kleek, and Reuben Binns. 2018. Fairness and accountability design needs for algorithmic support in high-stakes public sector decision-making. In *CHI'18*. <https://doi.org/10/ct4s>
+10\. Alexandra Olteanu, Carlos Castillo, Fernando Diaz, and Emre Kiciman. 2016. Social data: Biases, methodological pitfalls, and ethical boundaries.
+
+11\. Michael Veale, Max Van Kleek, and Reuben Binns. 2018. Fairness and accountability design needs for algorithmic support in high-stakes public sector decision-making. In *Proceedings of the Conference on Human Factors in Computing Systems - CHI 2018* (April 21-26, Montreal, Canada). ACM, N.Y. 
 
 
 
