@@ -1,3 +1,11 @@
+# [INTERACT 2019](https://interact2019.org/) Workshop
+
+# *Paper Submissions Deadline*: 24 April
+
+# Notification on acceptance: 7 June
+
+# Workshop: 3 September (to be confirmed)
+
 ## Overview
 
 * [Motivation](#motivation)
@@ -15,7 +23,7 @@ As more and more artificial intelligent systems become incorporated into our eve
 
 ## Call for Participation
 
-**We invite submissions for a one-day workshop to discuss critical questions in bringing the human into the development and deployment of artificial intelligence (AI) systems.**
+**We invite submissions for a one-day workshop to discuss critical questions in bringing the human into the development and deployment of Artificial iIntelligence (AI) systems.**
 
 Papers should be **2-4 pages long** in the [XXX](https://chi2019.acm.org/authors/chi-proceedings-format/) format, and may address any topics related to the intersections of HCI, AI, and machine learning. This includes but is not limited to ongoing work; reflections on past work; combining methods from HCI and design to AI; and emergent ethical, political, and social challenges. 
 
@@ -59,25 +67,25 @@ This workshop will focus on three sub-themes related to Human + AI Collaboration
 
 The (proposed) schedule includes:
 
-0900 - Welcome and Introduction
+0900 – Welcome and Introduction
 
 0915 – Lightning Talks by workshop participants
 
-1015 - Mid-morning break
+1015 – Mid-morning break
 
 1030 – Full-group brainstorming of possibly project areas
 
-1200 - Lunch break
+1200 – Lunch break
 
-1300 - Breakout Groups
+1300 – Breakout Groups
 
-1430 - Mid-afternoon break
+1430 – Mid-afternoon break
 
-1500 - Report back from Breakout Groups
+1500 – Report back from Breakout Groups
 
-1600 - Brainstorm next steps
+1600 – Brainstorm next steps
 
-1700 - Workshop concludes
+1700 – Workshop concludes
 
 
 ## Expected Outcomes
