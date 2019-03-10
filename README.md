@@ -1,6 +1,6 @@
 * [Motivation](#motivation)
 * [Call for Participation](#call-for-participation)
-* [Objectives and Target Audience](#objectives)
+* [Objectives and Target Audience](#objectives-and-target-audience)
 * [Themes](#themes)
 * [Organisers](#organisers)
 * [Schedule](#schedule)
@@ -43,7 +43,7 @@ This workshop will focus on three sub-themes related to Human + AI Collaboration
 3.  **Explainable and Explorable AI**: What does the human need to effectively utilize AI insights? How can users explore AI systems’ results and logic to identify failure modes that might not be easy to spot? Examples might be undesirable impacts on latent groups not corresponding to categories in the dataset \[6\], difficult-to-spot changes (‘concept drift’), or feedback loops in the socio-technical phenomena the AI system is modelling over time \[2\].
 
 
-Organisers
+## Organisers
 ==========
 
 **[Dr. Tom Gross](http://www.tomgross.net/)** is full professor and chair of Human-Computer Interaction at the Faculty of Infor-mation Systems and Applied Computer Science of the University of Bamberg, Ger-many. His research interests are particularly in the fields of Computer-Supported Cooperative Work, Human-Computer Interaction, and Ubiquitous Computing. He has participated in and coordinated activities in various national and international research projects and is a member of the IFIP Technical Committee on ‘Human Computer Interaction’ (TC.13). He has been conference co-chair and organiser of many international conferences. 
