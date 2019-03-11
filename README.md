@@ -114,6 +114,6 @@ Three key outcomes are expected from this workshop. First, community building an
 
 ## Contact
 
-If you have any question please e-mail: [kori@microsoft.com](kori@microsoft.com) or [email@tomgross.net](email.tomgross.net).
+If you have any question please e-mail: <kori@microsoft.com>  or <email@tomgross.net>.
 
 
