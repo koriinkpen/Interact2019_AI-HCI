@@ -1,3 +1,4 @@
+
 ### Paper Submissions Deadline: 22 April
 
 ### Notification of acceptance: 31 May
@@ -12,6 +13,7 @@
 * [Schedule](#schedule)
 * [Expected Outcomes](#expected-outcomes)
 * [References](#references)
+* [Contact](#contact)
 
 ## Motivation
 
@@ -109,5 +111,8 @@ Three key outcomes are expected from this workshop. First, community building an
 
 11\. Michael Veale, Max Van Kleek, and Reuben Binns. 2018. Fairness and accountability design needs for algorithmic support in high-stakes public sector decision-making. In *Proceedings of the Conference on Human Factors in Computing Systems - CHI 2018* (April 21-26, Montreal, Canada). ACM, N.Y. 
 
+## Contact
+
+If you have any question please e-mail: kori@microsoft.com or email@tomgross.net
 
 
