@@ -4,7 +4,7 @@
 
 ## Overview
 
-This workshop is part of the [IFIP TC.13 International Conference on Human-Computer Interaction – INTERACT 2019](www.interact2019.org). 
+This workshop is part of the [IFIP TC.13 International Conference on Human-Computer Interaction – INTERACT 2019](http://www.interact2019.org). 
 
 * [Motivation](#motivation)
 * [Call for Participation](#call-for-participation)
