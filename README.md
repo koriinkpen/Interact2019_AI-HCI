@@ -77,7 +77,7 @@ The (proposed) schedule includes:
 
 1430 – Mid-afternoon break
 
-1500 – Report back from Breakout Groups
+ 1500 – Report back from Breakout Groups
 
 1600 – Brainstorm next steps
 
