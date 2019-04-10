@@ -48,7 +48,7 @@ This workshop will focus on three sub-themes related to Human + AI Collaboration
 3.  **Explainable and Explorable AI**: What does the human need to effectively utilize AI insights? How can users explore AI systems’ results and logic to identify failure modes that might not be easy to spot? Examples might be undesirable impacts on latent groups not corresponding to categories in the dataset \[6\], difficult-to-spot changes (‘concept drift’), or feedback loops in the socio-technical phenomena the AI system is modelling over time \[2\].
 
 
-## Organisers3
+## Organisers4
 
 
  <table><tr><td vlign="center"><img="tom.png"> text </td></tr></table>
