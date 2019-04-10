@@ -51,9 +51,10 @@ This workshop will focus on three sub-themes related to Human + AI Collaboration
 ## Organisers3
 
 
- <table><tr><td vlign="center"><img=tom.png> text </td></tr></table>
+ <table><tr><td vlign="center"><img="tom.png"> text </td></tr></table>
  
  
+#src="https://raw.github.com/danielkorzekwa/bayes-scala/master/doc/moment_matching/eq1.png"
 
 | Photo | Bio |
 | :---: |:--- |
