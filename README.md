@@ -1,4 +1,4 @@
-6### Paper Submissions Deadline: 22 April
+### Paper Submissions Deadline: 22 April
 
 ### Notification of Acceptance: 31 May
 
