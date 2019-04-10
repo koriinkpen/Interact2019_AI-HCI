@@ -48,10 +48,10 @@ This workshop will focus on three sub-themes related to Human + AI Collaboration
 3.  **Explainable and Explorable AI**: What does the human need to effectively utilize AI insights? How can users explore AI systems’ results and logic to identify failure modes that might not be easy to spot? Examples might be undesirable impacts on latent groups not corresponding to categories in the dataset \[6\], difficult-to-spot changes (‘concept drift’), or feedback loops in the socio-technical phenomena the AI system is modelling over time \[2\].
 
 
-## Organisers1
+## Organisers2
 
 | Photo | Bio |
-|         ---: |:--- |
+|  :---: |:--- |
 | ![Photo of Tom](tom.png) | **[Tom Gross](http://www.tomgross.net/)** is full professor and chair of Human-Computer Interaction at the Faculty of Information Systems and Applied Computer Science of the University of Bamberg, Germany. His research interests are particularly in the fields of Computer-Supported Cooperative Work, Human-Computer Interaction, and Ubiquitous Computing. He has participated in and coordinated activities in various national and international research projects and is a member of the IFIP Technical Committee on ‘Human Computer Interaction’ (TC.13). He has been conference co-chair and organiser of many international conferences. |  
 | ![Photo of Kori](kori.png) | **[Kori Inkpen](https://www.microsoft.com/en-us/research/people/kori/)** is a Principal Researcher at Microsoft and a member of the MSR AI team.  Dr. Inkpen's research interests are currently focused on Human+AI Collaboration to enhance decision making, particularly in high-impact social contexts which inevitably delves into issues of Bias and Fairness in AI. Kori has been a core member of the CHI community for over 20 years. |
 | ![Photo of Brian](brian.png) | **[Brian Y. Lim](http://grianlim.net)** is an assistant professor in the Department of Computer Science at the National University of Singapore. He is leading the NUS Ubicomp Lab, where he and his team design, develop, and evaluate needs-driven infocomm technologies to address new societal challenges, such as urban systems, sustainability and energy management, healthcare and well-being. He has conducted research in intelligent systems across multiple modalities (IoT sensors, mobile interfaces, web and dashboards) and multiple scales (smartphones, smart homes, and smart cities). This allows me to develop impactful technological solutions for multiple domains, and to translate these innovations from the lab to society. |  
