@@ -52,8 +52,6 @@ This workshop will focus on three sub-themes related to Human + AI Collaboration
 
  <table><tr><td vlign="center"><img src="tom.jpg"> text </td></tr></table>
  
-![Photo of Tom](tom.jpg) **[Tom Gross](http://www.tomgross.net/)** is full professor and chair of Human-Computer Interaction at the Faculty of Information Systems and Applied Computer Science of the University of Bamberg, Germany. His research interests are particularly in the fields of Computer-Supported Cooperative Work, Human-Computer Interaction, and Ubiquitous Computing. He has participated in and coordinated activities in various national and international research projects and is a member of the IFIP Technical Committee on ‘Human Computer Interaction’ (TC.13). He has been conference co-chair and organiser of many international conferences.
-
 | Photo | Bio |
 | ---: |:----- |
 | ![Photo of Tom](tom.png) | **[Tom Gross](http://www.tomgross.net/)** is full professor and chair of Human-Computer Interaction at the Faculty of Information Systems and Applied Computer Science of the University of Bamberg, Germany. His research interests are particularly in the fields of Computer-Supported Cooperative Work, Human-Computer Interaction, and Ubiquitous Computing. He has participated in and coordinated activities in various national and international research projects and is a member of the IFIP Technical Committee on ‘Human Computer Interaction’ (TC.13). He has been conference co-chair and organiser of many international conferences. |  
