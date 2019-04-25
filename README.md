@@ -1,5 +1,3 @@
-#"Where is the Human? Bridging the Gap Between AI and HCI" 
-
 ### Paper Submissions Deadline: 29 April
 
 ### Notification of Acceptance: 31 May
