@@ -2,5 +2,6 @@
 #theme: jekyll-theme-cayman
 theme: jekyll-theme-dinky
 title: "Humans in the Loop - Bringing AI & HCI Together"
+<title>My Page Title</title>
 description: "Interact 2019, Tuesday, 3 September 2019, Paphos, Cyprus"
 markdown: kramdown
