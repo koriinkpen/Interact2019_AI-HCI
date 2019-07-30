@@ -8,15 +8,45 @@
 
 This workshop is part of the [IFIP TC.13 International Conference on Human-Computer Interaction – INTERACT 2019](http://www.interact2019.org). 
 
+* [Schedule](#schedule)
 * [Motivation](#motivation)
 * [Call for Participation](#call-for-participation)
 * [Objectives and Target Audience](#objectives-and-target-audience)
 * [Themes](#themes)
 * [Organisers](#organisers)
-* [Schedule](#schedule)
 * [Expected Outcomes](#expected-outcomes)
 * [References](#references)
 * [Contact](#contact)
+
+
+## Schedule
+
+The schedule includes:
+
+0900 – Welcome and Introduction
+
+0915 – Lightning Talks by workshop participants (5 min each)
+
+1030 – Morning break
+
+1100 – Full-group brainstorming of possible project areas
+
+1300 – Lunch break
+
+1400 – Breakout Groups
+
+1530 – Afternoon break
+
+1600 – Breakout Groups
+
+1630 – Report back from breakout groups
+
+1700 - Brainstorm next steps
+
+1730 – Workshop concludes
+
+
+
 
 ## Motivation
 
@@ -62,27 +92,29 @@ This workshop will focus on three sub-themes related to Human + AI Collaboration
 
 ## Schedule
 
-The (proposed) schedule includes:
+The schedule includes:
 
 0900 – Welcome and Introduction
 
-0915 – Lightning Talks by workshop participants
+0915 – Lightning Talks by workshop participants (5 min each)
 
-1015 – Mid-morning break
+1030 – Morning break
 
-1030 – Full-group brainstorming of possible project areas
+1100 – Full-group brainstorming of possible project areas
 
-1200 – Lunch break
+1300 – Lunch break
 
-1300 – Breakout Groups
+1400 – Breakout Groups
 
-1430 – Mid-afternoon break
+1530 – Afternoon break
 
- 1500 – Report back from Breakout Groups
+1600 – Breakout Groups
 
-1600 – Brainstorm next steps
+1630 – Report back from breakout groups
 
-1700 – Workshop concludes
+1700 - Brainstorm next steps
+
+1730 – Workshop concludes
 
 
 ## Expected Outcomes
