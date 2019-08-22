@@ -10,7 +10,7 @@
 This workshop is part of the [IFIP TC.13 International Conference on Human-Computer Interaction – INTERACT 2019](http://www.interact2019.org). 
 
 * [Schedule](#schedule)
-* [Accepted Papers](#papers)
+* [Accepted Papers](#accepted-papers)
 * [Motivation](#motivation)
 * [Call for Participation](#call-for-participation)* [Objectives and Target Audience](#objectives-and-target-audience)
 * [Themes](#themes)
