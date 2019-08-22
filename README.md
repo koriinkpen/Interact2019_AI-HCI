@@ -20,9 +20,10 @@ This workshop is part of the [IFIP TC.13 International Conference on Human-Compu
 * [Contact](#contact)
 
 
-## ScheduleThe schedule includes:
+## Schedule
 
 0900 – Welcome and Introduction
+
 0915 – Lightning Talks by workshop participants (5 min each)
 
 1030 – Morning break
@@ -111,33 +112,6 @@ This workshop will focus on three sub-themes related to Human + AI Collaboration
 | ![Photo of Kori](kori_square.png) | **[Kori Inkpen](https://www.microsoft.com/en-us/research/people/kori/)** is a Principal Researcher at Microsoft and a member of the MSR AI team.  Dr. Inkpen's research interests are currently focused on Human+AI Collaboration to enhance decision making, particularly in high-impact social contexts which inevitably delves into issues of Bias and Fairness in AI. Kori has been a core member of the CHI community for over 20 years. |
 | ![Photo of Brian](brian_square.png) | **[Brian Y. Lim](http://grianlim.net)** is an assistant professor in the Department of Computer Science at the National University of Singapore. He is leading the NUS Ubicomp Lab, where he and his team design, develop, and evaluate needs-driven infocomm technologies to address new societal challenges, such as urban systems, sustainability and energy management, healthcare and well-being. He has conducted research in intelligent systems across multiple modalities (IoT sensors, mobile interfaces, web and dashboards) and multiple scales (smartphones, smart homes, and smart cities). This allows me to develop impactful technological solutions for multiple domains, and to translate these innovations from the lab to society. |  
 | ![Photo of Michael](mv_s.png) | **[Michael Veale](https://michae.lv)** is a doctoral researcher in responsible public sector machine learning at the Dept. of Science, Technology, Engineering & Public Policy at University College London. His work spans HCI, law and policy, looking at how societal and legal concerns around machine learning are understood and coped with on the ground. |
-
-
-## Schedule
-
-The schedule includes:
-
-0900 – Welcome and Introduction
-
-0915 – Lightning Talks by workshop participants (5 min each)
-
-1030 – Morning break
-
-1100 – Full-group brainstorming of possible project areas
-
-1300 – Lunch break
-
-1400 – Breakout Groups
-
-1530 – Afternoon break
-
-1600 – Breakout Groups
-
-1630 – Report back from breakout groups
-
-1700 - Brainstorm next steps
-
-1730 – Workshop concludes
 
 
 ## Expected Outcomes
