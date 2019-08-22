@@ -1,10 +1,6 @@
 
 # Humans in the Loop - Bringing AI & HCI Together
 
-### Paper Submissions Deadline: 29 April
-
-### Notification of Acceptance: 31 May
-
 ## Overview
 
 This workshop is part of the [IFIP TC.13 International Conference on Human-Computer Interaction – INTERACT 2019](http://www.interact2019.org). 
