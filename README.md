@@ -21,9 +21,7 @@ This workshop is part of the [IFIP TC.13 International Conference on Human-Compu
 * [Contact](#contact)
 
 
-## Schedule
-
-The schedule includes:
+## ScheduleThe schedule includes:
 
 0900 – Welcome and Introduction
 
@@ -49,7 +47,8 @@ The schedule includes:
 
 ## Accepted Papers
 
-1. **A View from Outside the Loop, Anders Hedman**
+1. **A View from Outside the Loop - Anders Hedman, KTH The Royal Institute of Technology, Stockholm, Sweden**
+
 Abstract: There is a growing interest today in how to combine human intelligence with artificial intelligence in the best possible ways. One reason for this interest is that in this territory of combined intelligence it is, in many cases, unclear how the total system of human and machine will behave, and unless we know that, how could we know what the perils and opportunities might be? It is clear then that we need a body of research to investigate the nature of humans in the loop in order to design wisely. Such wise design would prima facie appear to be achievable through analysis of existing and possible human in the loop systems from a vantage point outside of such systems. But, is such a vantage point achievable today and if so, will such a vantage point be available in the future? This paper considers the possibility of humans as always being in the loop and what it might mean for our understanding of humans in the loop.
 
 
